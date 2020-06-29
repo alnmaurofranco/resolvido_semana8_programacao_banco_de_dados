@@ -1,3 +1,6 @@
+import math
+import random
+
 def friends_age_covariance():
     ages = [22, 6, 18]
     num_friends = [4, 10, 9]
